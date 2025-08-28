@@ -3,11 +3,16 @@
 <link rel="icon" type="image/ico" sizes="16x16" href="images/image.ico">
 <link rel="manifest" href="images/site.webmanifest">
 
-<meta name="msapplication-TileColor" content="#000000">
+<meta name="msapplication-TileColor" content="#667eea">
 <meta name="msapplication-TileImage" content="images/mstile-144x144.png?v=M44lzPylqQ">
 <meta name="msapplication-config" content="images/browserconfig.xml?v=M44lzPylqQ">
-<meta name="theme-color" content="#ffffff">
+<meta name="theme-color" content="#667eea">
 <link rel="stylesheet" href="assets/css/academicons.css"/>
+
+<!-- Google Fonts for enhanced typography -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
 
 
 <script type="text/x-mathjax-config"> MathJax.Hub.Config({ TeX: { equationNumbers: { autoNumber: "all" } } }); </script>
@@ -21,5 +26,82 @@
 </script>
 <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/latest.js?config=TeX-MML-AM_CHTML' async></script>
 
-<!-- end custom head snippets
- -->
+<!-- Enhanced Custom Styles -->
+<style>
+  /* Enhanced font integration */
+  body, .page__content {
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+    line-height: 1.6;
+    letter-spacing: -0.01em;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+    font-weight: 600;
+    letter-spacing: -0.02em;
+  }
+  
+  /* Code font improvements */
+  code, pre, .monospace {
+    font-family: 'JetBrains Mono', 'SF Mono', Monaco, monospace;
+  }
+  
+  /* Enhanced page loading animation */
+  .page {
+    animation: fadeInUp 0.8s ease-out;
+  }
+  
+  @keyframes fadeInUp {
+    from {
+      opacity: 0;
+      transform: translateY(20px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+  
+  /* Improved selection colors */
+  ::selection {
+    background-color: rgba(102, 126, 234, 0.2);
+    color: inherit;
+  }
+  
+  ::-moz-selection {
+    background-color: rgba(102, 126, 234, 0.2);
+    color: inherit;
+  }
+  
+  /* Enhanced scrollbar styling */
+  ::-webkit-scrollbar {
+    width: 8px;
+  }
+  
+  ::-webkit-scrollbar-track {
+    background: #f1f5f9;
+    border-radius: 4px;
+  }
+  
+  ::-webkit-scrollbar-thumb {
+    background: linear-gradient(135deg, #667eea, #764ba2);
+    border-radius: 4px;
+  }
+  
+  ::-webkit-scrollbar-thumb:hover {
+    background: linear-gradient(135deg, #5a6fd8, #6b4190);
+  }
+  
+  /* Enhanced mobile responsiveness */
+  @media (max-width: 768px) {
+    .award-item,
+    .scholarship-item,
+    .news-item {
+      margin-left: -0.5em;
+      margin-right: -0.5em;
+      padding: 1em;
+    }
+  }
+</style>
+
+<!-- end custom head snippets -->

@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Xiaoran Shang's Homepage"
-description              : "incoming CS Ph.D. Student"
-repository               : "xrose3159/xrose3159.github.io"
+title                    : "Peiqi Ding's Homepage"
+description              : "A Clinical Medicine Undergraduate Student at Jilin University"
+repository               : "Angelenanana/peiqiding.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Xiaoran Shang"
+  name             : "Peiqi Ding"
   avatar           : "images/head1.png"
-  bio              : "armstrongsxr@163.com"
-  location         : "Wuhan, China"
+  bio              : "dingpq9922@163.com"
+  location         : "Changchun, China"
   employer         :
   pubmed           : 
   # googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "armstrongsxr@163.com"
+  email            : "dingpq9922@163.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,10 +37,10 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "xrose3159"
+  github           : "Angelenanana"
   google_plus      :
   keybase          :
-  instagram        : "xrose3159"
+  instagram        : 
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # e.g., "linkedin username"
@@ -51,7 +51,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "xrose3159"
+  twitter          : 
   vine             :
   weibo            :
   xing             :

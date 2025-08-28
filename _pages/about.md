@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm **Xiaoran Shang** (Chinese: 尚萧然), presently a fourth-year undergraduate student studying Information Security at [Cyber Science and Engineering (SCSE)](https://cse.whu.edu.cn/index.htm), [Wuhan University (WHU)](https://www.whu.edu.cn/).
+I'm **Peiqi Ding** (Chinese: 丁沛琦), presently a fourth-year undergraduate student studying Clinical Medicine at [The Second Norman Bethune Hospital](http://113.45.131.203:9099/home), [Jilin University (JLU)](https://www.jlu.edu.cn/).
 
-I have closely collaborated with [Prof. Ye](https://marswhu.github.io/index.html) of MARS Lab from [School of CS](https://cs.whu.edu.cn/), Wuhan University. I have a strong interest in **AI Security & Privacy**, **LLM**, and **Multi Agent System(MAS)**.
+I have been actively collaborating with [Doc. Wu](http://113.45.131.203:9099/zjtd/yjks23/ykyy32/ydbk2/content_101151) and [Doc. Qu](https://medicine.jlu.edu.cn/info/1251/13274.htm). My research interests lie primarily in **Posterior Segment Diseases**, particularly **macular disease** and related conditions.
 
-I am open to any research collaboration. Feel free to contact me via [Email](mailto:armstrongsxr@163.com) or <a href="#" onclick="showWeChatQR(); return false;">WeChat</a>.
+I am open to any research collaboration. Feel free to contact me via [Email](dingpq9922@163.com) or <a href="#" onclick="showWeChatQR(); return false;">WeChat</a>.
 
 <!-- WeChat QR Code Modal -->
 <div id="wechatModal" style="display: none; position: fixed; z-index: 1000; left: 0; top: 0; width: 100%; height: 100%; background-color: rgba(0,0,0,0.5);" onclick="closeWeChatQR()">
@@ -60,8 +60,8 @@ document.addEventListener('keydown', function(event) {
 
 # 🔥 News
 
-- **2025.8** 🏆 Won **First Prize** in China Robotics and Artificial Intelligence Competition (New productivity track)
-- **2025.7** 🏆 Won **2 * First Prize** in China Robotics and Artificial Intelligence Competition
+- **2025.8** 🏆 Won **Second Prize** in China Undergraduate Medical Innovation Tournament & The Belt and Road International Competition
+- **2025.7** 🏆 Won **Third Prize** in China Undergraduate Life Science Contest (Scientific Inquiry Category)
 - **2024.11** 🎖️ Awarded **Lei Jun Computer Undergraduate Scholarship** (¥10000)
 
 <!--
@@ -75,41 +75,32 @@ document.addEventListener('keydown', function(event) {
 
 ## <span style="color: #667eea; font-weight: 600;">2025</span>
 
-<div style="background: linear-gradient(135deg, #f8f9ff 0%, #ffffff 100%); border: 1px solid #e1e8f7; border-radius: 16px; padding: 2em; margin-bottom: 2em; box-shadow: 0 4px 20px rgba(102, 126, 234, 0.1); transition: all 0.3s ease;">
+
+<div style="background: linear-gradient(135deg, #f0f4f8 0%, #ffffff 100%); border: 1px solid #e2e8f0; border-radius: 16px; padding: 2em; margin-bottom: 2em; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05); transition: all 0.3s ease;">
   <div style="display: flex; flex-direction: column; gap: 1.5em;">
     
     <div style="display: flex; gap: 2em; align-items: flex-start;">
       <div style="flex: 1; min-width: 0;">
-        <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 0.3em 0.8em; border-radius: 20px; display: inline-block; font-size: 0.8em; font-weight: 600; margin-bottom: 1em;">
-          NeurIPS 2025 • Under Review
+        <div style="background: linear-gradient(135deg, #6b7280 0%, #4b5563 100%); color: white; padding: 0.3em 0.8em; border-radius: 20px; display: inline-block; font-size: 0.8em; font-weight: 600; margin-bottom: 1em;">
+          Under Review
         </div>
         
         <h3 style="color: #2d3748; font-size: 1.3em; font-weight: 700; margin: 0 0 0.8em 0; line-height: 1.3;">
-          HYPERION: Fine-Grained Hypersphere Alignment for Robust Federated Graph Learning
+          Risk factors for pterygium: latest research progress on major pathogenesis
         </h3>
         
         <div style="color: #4a5568; font-size: 1em; margin-bottom: 1em; line-height: 1.5;">
-          <strong style="color: #2d3748;">Xiaoran Shang</strong>†, <strong>Guancheng Wan</strong>†, <strong>Guibin Zhang</strong>, <em>et al.</em>
+          <strong style="color: #2d3748;">Peiqi Ding</strong>†, <em>et al.</em>
         </div>
         
-        <div style="margin-bottom: 1em;">
-          <div style="color: #666; font-size: 0.9em; margin-bottom: 0.5em; font-weight: 600;">Review Scores:</div>
-          <div style="display: flex; gap: 0.5em; flex-wrap: wrap;">
-            <span style="background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: white; padding: 0.3em 0.8em; border-radius: 20px; font-size: 0.85em; font-weight: 600; box-shadow: 0 2px 8px rgba(16, 185, 129, 0.3);">5 [4]</span>
-            <span style="background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: white; padding: 0.3em 0.8em; border-radius: 20px; font-size: 0.85em; font-weight: 600; box-shadow: 0 2px 8px rgba(16, 185, 129, 0.3);">5 [4]</span>
-            <span style="background: linear-gradient(135deg, #f59e0b 0%, #d97706 100%); color: white; padding: 0.3em 0.8em; border-radius: 20px; font-size: 0.85em; font-weight: 600; box-shadow: 0 2px 8px rgba(245, 158, 11, 0.3);">4 [3]</span>
-            <span style="background: linear-gradient(135deg, #f59e0b 0%, #d97706 100%); color: white; padding: 0.3em 0.8em; border-radius: 20px; font-size: 0.85em; font-weight: 600; box-shadow: 0 2px 8px rgba(245, 158, 11, 0.3);">4 [3]</span>
-          </div>
-        </div>
-        
-        <div style="color: #6b7280; font-size: 0.95em; font-style: italic; line-height: 1.4;">
-          Annual Conference on Neural Information Processing Systems (NeurIPS), 2025
+        <div style="color: #6b7280; font-size: 0.95em; line-height: 1.4;">
+          Experimental Eye Research（Q2，IF=3.77）
         </div>
       </div>
       
       <div style="flex: 0 0 300px;">
         <div style="background: white; border-radius: 16px; padding: 0.8em; box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);">
-          <img src="https://github.com/user-attachments/assets/0c71fbd2-78e8-43c6-ab63-594e83a952c2" alt="HYPERION Framework" style="width: 100%; height: auto; border-radius: 12px; box-shadow: 0 2px 12px rgba(0, 0, 0, 0.15);" />
+          <img src="https://github.com/user-attachments/assets/d5914aa4-b495-417b-b55f-be0780dcb65e" alt="Framework" style="width: 100%; height: auto; border-radius: 12px; box-shadow: 0 2px 12px rgba(0, 0, 0, 0.15);" />
         </div>
       </div>
     </div>
@@ -126,7 +117,7 @@ document.addEventListener('keydown', function(event) {
         </div>
         
         <h3 style="color: #2d3748; font-size: 1.3em; font-weight: 700; margin: 0 0 0.8em 0; line-height: 1.3;">
-          DAWN: Distributed Multi-Agent Systems Workflow Synthesis via Federated Graph Learning
+          Targeting mechanotransduction in osteosarcoma
         </h3>
         
         <div style="color: #4a5568; font-size: 1em; margin-bottom: 1em; line-height: 1.5;">
@@ -134,13 +125,13 @@ document.addEventListener('keydown', function(event) {
         </div>
         
         <div style="color: #6b7280; font-size: 0.95em; line-height: 1.4;">
-          Distributed multi-agent systems workflow synthesis with federated graph learning approach for enhanced coordination and privacy preservation.
+          Biochem Biophys Res Commun（Q3，IF=2.2）
         </div>
       </div>
       
       <div style="flex: 0 0 300px;">
         <div style="background: white; border-radius: 16px; padding: 0.8em; box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);">
-          <img src="https://github.com/user-attachments/assets/d5914aa4-b495-417b-b55f-be0780dcb65e" alt="DAWN Framework" style="width: 100%; height: auto; border-radius: 12px; box-shadow: 0 2px 12px rgba(0, 0, 0, 0.15);" />
+          <img src="https://github.com/user-attachments/assets/d5914aa4-b495-417b-b55f-be0780dcb65e" alt="Framework" style="width: 100%; height: auto; border-radius: 12px; box-shadow: 0 2px 12px rgba(0, 0, 0, 0.15);" />
         </div>
       </div>
     </div>
@@ -149,106 +140,70 @@ document.addEventListener('keydown', function(event) {
 
 # 🏆 Competition Awards
 
-<div style="margin-bottom: 1em;">
-  <div style="display: flex; align-items: center; margin-bottom: 0.5em;">
-    <span style="background: linear-gradient(90deg, #FFD700, #FFA500); color: white; padding: 4px 8px; border-radius: 15px; font-size: 0.8em; font-weight: bold; margin-right: 10px;">🥇🥇 2 * First Prize</span>
-    <strong>China Robotics and Artificial Intelligence Competition</strong> <span style="color: #666;"></span>
+<div class="award-item">
+  <span class="award-medal">🥈 Second Prize</span>
+  <div class="award-details">
+    <div class="award-title">China Undergraduate Medical Innovation Tournament & The Belt and Road International Competition</div>
+    <div class="award-year">2025</div>
   </div>
-  <div style="color: #666; font-style: italic; margin-left: 20px;">2025</div>
 </div>
 
-<div style="margin-bottom: 1em;">
-  <div style="display: flex; align-items: center; margin-bottom: 0.5em;">
-    <span style="background: linear-gradient(90deg, #FFD700, #FFA500); color: white; padding: 4px 8px; border-radius: 15px; font-size: 0.8em; font-weight: bold; margin-right: 10px;">🥇 First Prize</span>
-    <strong>China Robotics and Artificial Intelligence Competition (New productivity track)</strong> <span style="color: #666;"></span>
+<div class="award-item">
+  <span class="award-medal bronze">🥉 Third Prize</span>
+  <div class="award-details">
+    <div class="award-title">China Undergraduate Life Science Contest (Scientific Inquiry Category)</div>
+    <div class="award-year">2025</div>
   </div>
-  <div style="color: #666; font-style: italic; margin-left: 20px;">2025</div>
 </div>
 
-
-<div style="margin-bottom: 1em;">
-  <div style="display: flex; align-items: center; margin-bottom: 0.5em;">
-    <span style="background: linear-gradient(90deg, #FFD700, #FFA500); color: white; padding: 4px 8px; border-radius: 15px; font-size: 0.8em; font-weight: bold; margin-right: 10px;">🥇 First Prize</span>
-    <strong>China College Student Computer Design Competition</strong> <span style="color: #666;">(Central and South Region - Digital Games and Interaction Design Track)</span>
+<div class="award-item">
+  <span class="award-medal silver">🥈 Second Prize</span>
+  <div class="award-details">
+    <div class="award-title">China International College Students Innovation Competition</div>
+    <div class="award-location">(Jilin University Region)</div>
+    <div class="award-year">2024</div>
   </div>
-  <div style="color: #666; font-style: italic; margin-left: 20px;">2025</div>
 </div>
 
-<div style="margin-bottom: 1em;">
-  <div style="display: flex; align-items: center; margin-bottom: 0.5em;">
-    <span style="background: linear-gradient(90deg, #FFD700, #FFA500); color: white; padding: 4px 8px; border-radius: 15px; font-size: 0.8em; font-weight: bold; margin-right: 10px;">🥇 First Prize</span>
-    <strong>China College Student Computer Design Competition</strong> <span style="color: #666;">(Central and South Region - Artificial Intelligence Track)</span>
+<div class="award-item">
+  <span class="award-medal silver">🥈 Silver Medal</span>
+  <div class="award-details">
+    <div class="award-title">International Genetically Engineered Machine competition</div>
+    <div class="award-location">(Paris, France)</div>
+    <div class="award-year">2023</div>
   </div>
-  <div style="color: #666; font-style: italic; margin-left: 20px;">2025</div>
 </div>
-
-<div style="margin-bottom: 1em;">
-  <div style="display: flex; align-items: center; margin-bottom: 0.5em;">
-    <span style="background: linear-gradient(90deg, #FFD700, #FFA500); color: white; padding: 4px 8px; border-radius: 15px; font-size: 0.8em; font-weight: bold; margin-right: 10px;">🥇 First Prize</span>
-    <strong>China College Student Computer Design Competition</strong> <span style="color: #666;">(Central and South Region - Big Data Track)</span>
-  </div>
-  <div style="color: #666; font-style: italic; margin-left: 20px;">2025</div>
-</div>
-
-<div style="margin-bottom: 1em;">
-  <div style="display: flex; align-items: center; margin-bottom: 0.5em;">
-    <span style="background: linear-gradient(90deg, #C0C0C0, #A0A0A0); color: white; padding: 4px 8px; border-radius: 15px; font-size: 0.8em; font-weight: bold; margin-right: 10px;">🥈 Second Prize</span>
-    <strong>LanQiao Cup: Artificial Intelligence Algorithm Special Competition</strong> <span style="color: #666;">(Hubei Provincial Division)</span>
-  </div>
-  <div style="color: #666; font-style: italic; margin-left: 20px;">2025</div>
-</div>
-
-<div style="margin-bottom: 1em;">
-  <div style="display: flex; align-items: center; margin-bottom: 0.5em;">
-    <span style="background: linear-gradient(90deg, #CD7F32, #B8860B); color: white; padding: 4px 8px; border-radius: 15px; font-size: 0.8em; font-weight: bold; margin-right: 10px;">🥉 Bronze Medal</span>
-    <strong>NeurIPS 2024 - Ariel Data Challenge</strong>
-  </div>
-  <div style="color: #666; font-style: italic; margin-left: 20px;">2024</div>
-</div>
-
-<div style="margin-bottom: 1em;">
-  <div style="display: flex; align-items: center; margin-bottom: 0.5em;">
-    <span style="background: linear-gradient(90deg, #C0C0C0, #A0A0A0); color: white; padding: 4px 8px; border-radius: 15px; font-size: 0.8em; font-weight: bold; margin-right: 10px;">🥈 Second Prize</span>
-    <strong>The National Undergraduate Mathematical Modeling Contest</strong>
-  </div>
-  <div style="color: #666; font-style: italic; margin-left: 20px;">2024</div>
-</div>
-
-<div style="margin-bottom: 1em;">
-  <div style="display: flex; align-items: center; margin-bottom: 0.5em;">
-    <span style="background: linear-gradient(90deg, #C0C0C0, #A0A0A0); color: white; padding: 4px 8px; border-radius: 15px; font-size: 0.8em; font-weight: bold; margin-right: 10px;">🥈 Silver Medal</span>
-    <strong>China International College Students Innovation Competition</strong> <span style="color: #666;">(Hubei Provincial Division)</span>
-  </div>
-  <div style="color: #666; font-style: italic; margin-left: 20px;">2024</div>
-</div>
-
-<div style="margin-bottom: 1em;">
-  <div style="display: flex; align-items: center; margin-bottom: 0.5em;">
-    <span style="background: linear-gradient(90deg, #FFD700, #FFA500); color: white; padding: 4px 8px; border-radius: 15px; font-size: 0.8em; font-weight: bold; margin-right: 10px;">🥇 First Prize</span>
-    <strong>Huazhong Cup College Student Mathematical Modeling Challenge</strong>
-  </div>
-  <div style="color: #666; font-style: italic; margin-left: 20px;">2024</div>
-</div>
-
-
 
 
 # 🎖 Scholarships and Honors
 
-- **Lei Jun Computer Science Undergraduate Scholarship** (2024)  
-  *Award Rate: 10/1213 • Wuhan University & Xiao Mi Technologies Co., Ltd.*
+<div class="scholarship-item">
+  <div class="scholarship-title">Dong Rong Scholarship</div>
+  <div class="scholarship-details">
+    <strong>Award Rate:</strong> 10/1213 • <em>Jilin University & IB Group Korea</em> • <strong>2024</strong>
+  </div>
+</div>
 
-- **First Class Scholarship of WHU** (2024)  
-  *Award Rate: 5% school-wide • Wuhan University*
+<div class="scholarship-item">
+  <div class="scholarship-title">First Class Scholarship of JLU</div>
+  <div class="scholarship-details">
+    <strong>Award Rate:</strong> 5% school-wide • <em>Jilin University</em> • <strong>2024</strong>
+  </div>
+</div>
 
-- **Lei Jun Computer Innovation and Development Fund** (2024, 2025)  
-  *Wuhan University & Xiao Mi Technologies Co., Ltd.*
+<div class="scholarship-item">
+  <div class="scholarship-title">Outstanding Communist Youth League Member of Jilin University</div>
+  <div class="scholarship-details">
+    <strong>Award Rate:</strong> 5% school-wide • <em>Jilin University</em> • <strong>2024</strong>
+  </div>
+</div>
 
-- **National Encouragement Scholarship** (2023)  
-  *The Central Government of China*
-
-- **Merit Student** (2023, 2024)  
-  *Award Rate: 10% school-wide • Wuhan University*
+<div class="scholarship-item">
+  <div class="scholarship-title">Merit Student</div>
+  <div class="scholarship-details">
+    <strong>Award Rate:</strong> 10% school-wide • <em>Jilin University</em> • <strong>2023, 2024</strong>
+  </div>
+</div>
 
 
 
@@ -259,8 +214,8 @@ document.addEventListener('keydown', function(event) {
   <div style="display: flex; align-items: center; gap: 1.5em;">
     <div style="flex: 0 0 80px;">
       <div style="width: 80px; height: 80px; border-radius: 50%; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); display: flex; align-items: center; justify-content: center; box-shadow: 0 4px 16px rgba(102, 126, 234, 0.3); position: relative;">
-        <img src="images/whu-logo.png" alt="Wuhan University Logo" style="width: 60px; height: 60px; border-radius: 50%; object-fit: contain; background: white; padding: 8px; position: absolute;" onload="this.style.display='block';" onerror="this.style.display='none'; this.parentElement.querySelector('.fallback').style.display='flex';" />
-        <div class="fallback" style="display: flex; color: white; font-weight: bold; font-size: 1.1em; align-items: center; justify-content: center; width: 100%; height: 100%; text-align: center;">WHU</div>
+        <img src="images/jlu-logo.jpg" alt="Jilin University Logo" style="width: 60px; height: 60px; border-radius: 50%; object-fit: contain; background: white; padding: 8px; position: absolute;" onload="this.style.display='block';" onerror="this.style.display='none'; this.parentElement.querySelector('.fallback').style.display='flex';" />
+        <div class="fallback" style="display: flex; color: white; font-weight: bold; font-size: 1.1em; align-items: center; justify-content: center; width: 100%; height: 100%; text-align: center;">JLU</div>
       </div>
     </div>
     <div style="flex: 1;">
@@ -269,11 +224,11 @@ document.addEventListener('keydown', function(event) {
         <span style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 0.3em 0.8em; border-radius: 20px; font-size: 0.85em; font-weight: 600;">2022.08 - Present</span>
       </div>
       <div style="color: #4a5568; font-size: 1.1em; margin-bottom: 0.5em; font-weight: 600;">
-        School of Cyber Science and Engineering, Wuhan University
+        The Second Norman Bethune Hospital, Jilin University
       </div>
       <div style="display: flex; align-items: center; gap: 1em; margin-bottom: 0.5em;">
-        <span style="color: #6b7280; font-size: 0.95em;">📍 Wuhan, Hubei, China</span>
-        <span style="color: #6b7280; font-size: 0.95em;">🎓 Major: Information Security</span>
+        <span style="color: #6b7280; font-size: 0.95em;">📍 Changchun, Jilin, China</span>
+        <span style="color: #6b7280; font-size: 0.95em;">🎓 Major: Clinical Medicine</span>
       </div>
     </div>
   </div>
