@@ -71,11 +71,6 @@ document.addEventListener('keydown', function(event) {
 
 # 📃 Publications
 
-<div class="section-description" style="color: #666; font-size: 0.9em; margin-bottom: 2em; display: flex; justify-content: space-between; align-items: center;">
-  <span>† Equal Contribution</span>
-  <div class="year-badge" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 0.3em 1em; border-radius: 20px; font-size: 0.9em; font-weight: 600;">2025</div>
-</div>
-
 <div style="display: grid; gap: 2em;">
   <div style="background: linear-gradient(135deg, #f8faff 0%, #ffffff 100%); border: 1px solid #e1e8f7; border-radius: 16px; padding: 2em; transition: all 0.3s ease; box-shadow: 0 4px 20px rgba(102, 126, 234, 0.08);">
     <div style="display: flex; gap: 2em; align-items: flex-start;">
@@ -119,7 +114,7 @@ document.addEventListener('keydown', function(event) {
 # 🏆 Competition Awards
 
 <div class="award-item">
-  <span class="award-medal">🥈 Second Prize</span>
+  <span class="award-medal silver">🥈 Second Prize</span>
   <div class="award-details">
     <div class="award-title">China Undergraduate Medical Innovation Tournament & The Belt and Road International Competition</div>
     <div class="award-year">2025</div>
