@@ -19,7 +19,7 @@ redirect_from:
 
 I'm **Peiqi Ding** (Chinese: 丁沛琦), presently a fourth-year undergraduate student studying Clinical Medicine at [The Second Norman Bethune Hospital](http://113.45.131.203:9099/home), [Jilin University (JLU)](https://www.jlu.edu.cn/).
 
-I have been actively collaborating with [Doc. Wu](http://113.45.131.203:9099/zjtd/yjks23/ykyy32/ydbk2/content_101151) and [Doc. Qu](https://medicine.jlu.edu.cn/info/1251/13274.htm). My research interests lie primarily in **Posterior Segment Diseases**, particularly **macular disease** and related conditions.
+I have been actively collaborating with [Dr. Wu](http://113.45.131.203:9099/zjtd/yjks23/ykyy32/ydbk2/content_101151) and [Dr. Qu](https://medicine.jlu.edu.cn/info/1251/13274.htm). My research interests lie primarily in **Posterior Segment Diseases**, particularly **macular disease** and related conditions.
 
 I am open to any research collaboration. Feel free to contact me via [Email](dingpq9922@163.com) or <a href="#" onclick="showWeChatQR(); return false;">WeChat</a>.
 
@@ -70,7 +70,7 @@ document.addEventListener('keydown', function(event) {
 -->
 
 # 📃 Publications
-
+<div style="color: #666; font-size: 0.9em; margin-bottom: 2em;">† Equal Contribution</div>
 <div style="display: grid; gap: 2em;">
   <div style="background: linear-gradient(135deg, #f8faff 0%, #ffffff 100%); border: 1px solid #e1e8f7; border-radius: 16px; padding: 2em; transition: all 0.3s ease; box-shadow: 0 4px 20px rgba(102, 126, 234, 0.08);">
     <div style="display: flex; gap: 2em; align-items: flex-start;">
@@ -146,6 +146,9 @@ document.addEventListener('keydown', function(event) {
     <div class="award-year">2023</div>
   </div>
 </div>
+
+# 📃 Innovation Projects
+
 
 
 # 🎖 Scholarships and Honors
