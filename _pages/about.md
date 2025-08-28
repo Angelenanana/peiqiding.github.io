@@ -76,39 +76,43 @@ document.addEventListener('keydown', function(event) {
   <div class="year-badge" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 0.3em 1em; border-radius: 20px; font-size: 0.9em; font-weight: 600;">2025</div>
 </div>
 
-<div class="paper-box" style="display: flex; gap: 2em; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 12px; padding: 1.5em; margin-bottom: 1.5em; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.05);">
-  <div class="paper-content" style="flex: 1;">
-    <h3 style="color: #1a202c; font-size: 1.2em; font-weight: 600; margin: 0 0 0.8em 0;">Risk factors for pterygium: latest research progress on major pathogenesis</h3>
-    
-    <div style="color: #4a5568; font-size: 0.95em; margin-bottom: 0.8em;">
-      <strong style="color: #2d3748;">Peiqi Ding</strong>, Ruiqing Wang, Yuqian He, <em>et al.</em>
-    </div>
-    
-    <div style="color: #6b7280; font-size: 0.9em; font-style: italic;">
-      Experimental Eye Research（Q2，IF=3.77）
+<div style="display: grid; gap: 2em;">
+  <div style="background: linear-gradient(135deg, #f8faff 0%, #ffffff 100%); border: 1px solid #e1e8f7; border-radius: 16px; padding: 2em; transition: all 0.3s ease; box-shadow: 0 4px 20px rgba(102, 126, 234, 0.08);">
+    <div style="display: flex; gap: 2em; align-items: flex-start;">
+      <div style="flex: 1;">
+        <h3 style="color: #2d3748; font-size: 1.25em; font-weight: 600; margin: 0 0 1em 0; line-height: 1.4;">
+          Risk factors for pterygium: latest research progress on major pathogenesis
+        </h3>
+        <div style="color: #4a5568; font-size: 0.95em; margin-bottom: 0.8em; line-height: 1.6;">
+          <strong style="color: #2d3748;">Peiqi Ding</strong>, Ruiqing Wang, Yuqian He, <em>et al.</em>
+        </div>
+        <div style="display: inline-block; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 0.4em 1em; border-radius: 20px; color: white; font-size: 0.9em;">
+          Experimental Eye Research（Q2，IF=3.77）
+        </div>
+      </div>
+      <div style="flex: 0 0 200px;">
+        <img src="images/paper1.jpg" alt="Pterygium Research Framework" style="width: 100%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);" />
+      </div>
     </div>
   </div>
-  
-  <div style="flex: 0 0 160px;">
-    <img src="images/paper1.jpg" alt="Pterygium Research Framework" style="width: 100%; border-radius: 8px; border: 1px solid #e2e8f0;" />
-  </div>
-</div>
 
-<div class="paper-box" style="display: flex; gap: 2em; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 12px; padding: 1.5em; margin-bottom: 1.5em; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.05);">
-  <div class="paper-content" style="flex: 1;">
-    <h3 style="color: #1a202c; font-size: 1.2em; font-weight: 600; margin: 0 0 0.8em 0;">Targeting mechanotransduction in osteosarcoma</h3>
-    
-    <div style="color: #4a5568; font-size: 0.95em; margin-bottom: 0.8em;">
-      <strong style="color: #2d3748;">Ruoyun He</strong>, <strong style="color: #2d3748;">Peiqi Ding</strong>†, <strong style="color: #2d3748;">Yanan She</strong>† <em>et al.</em>
+  <div style="background: linear-gradient(135deg, #fff8f5 0%, #ffffff 100%); border: 1px solid #ffe4d5; border-radius: 16px; padding: 2em; transition: all 0.3s ease; box-shadow: 0 4px 20px rgba(255, 145, 68, 0.08);">
+    <div style="display: flex; gap: 2em; align-items: flex-start;">
+      <div style="flex: 1;">
+        <h3 style="color: #2d3748; font-size: 1.25em; font-weight: 600; margin: 0 0 1em 0; line-height: 1.4;">
+          Targeting mechanotransduction in osteosarcoma
+        </h3>
+        <div style="color: #4a5568; font-size: 0.95em; margin-bottom: 0.8em; line-height: 1.6;">
+          <strong style="color: #2d3748;">Ruoyun He</strong>, <strong style="color: #2d3748;">Peiqi Ding</strong>†, <strong style="color: #2d3748;">Yanan She</strong>† <em>et al.</em>
+        </div>
+        <div style="display: inline-block; background: linear-gradient(135deg, #ff9144 0%, #ff6b24 100%); padding: 0.4em 1em; border-radius: 20px; color: white; font-size: 0.9em;">
+          Biochem Biophys Res Commun（Q3，IF=2.2）
+        </div>
+      </div>
+      <div style="flex: 0 0 200px;">
+        <img src="images/paper2.jpg" alt="Osteosarcoma Research" style="width: 100%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);" />
+      </div>
     </div>
-    
-    <div style="color: #6b7280; font-size: 0.9em; font-style: italic;">
-      Biochem Biophys Res Commun（Q3，IF=2.2）
-    </div>
-  </div>
-  
-  <div style="flex: 0 0 160px;">
-    <img src="images/paper2.jpg" alt="Osteosarcoma Research" style="width: 100%; border-radius: 8px; border: 1px solid #e2e8f0;" />
   </div>
 </div>
 
@@ -151,61 +155,45 @@ document.addEventListener('keydown', function(event) {
 
 # 🎖 Scholarships and Honors
 
-<div class="scholarship-container" style="display: grid; gap: 1.5em;">
-  <div style="background: linear-gradient(135deg, #fff8f0 0%, #ffffff 100%); border: 1px solid #ffd7b5; border-radius: 12px; padding: 1.5em; box-shadow: 0 4px 16px rgba(255, 183, 138, 0.1); transition: all 0.3s ease;">
-    <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1em;">
-      <div style="display: flex; align-items: center; gap: 0.8em;">
-        <span style="background: linear-gradient(135deg, #ff9a57 0%, #ff7643 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 1.5em;">🏆</span>
-        <h3 style="color: #2d3748; font-size: 1.1em; font-weight: 600; margin: 0;">Dong Rong Scholarship</h3>
-      </div>
-      <span style="background: linear-gradient(135deg, #ff9a57 0%, #ff7643 100%); color: white; padding: 0.3em 0.8em; border-radius: 20px; font-size: 0.85em; font-weight: 500;">2024</span>
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 1.5em;">
+  <div style="background: #ffffff; border: 1px solid #e2e8f0; border-radius: 12px; padding: 1.2em;">
+    <div style="display: flex; align-items: center; gap: 0.8em; margin-bottom: 0.5em;">
+      <span style="font-size: 1.2em;">🏆</span>
+      <h3 style="color: #2d3748; font-size: 1em; font-weight: 600; margin: 0;">Dong Rong Scholarship</h3>
     </div>
-    <div style="color: #4a5568; font-size: 0.95em; margin-bottom: 0.5em;">
-      <span style="color: #718096; font-weight: 500;">Award Rate:</span> 10/1213
+    <div style="color: #718096; font-size: 0.9em;">
+      Top 10/1213 • 2024
     </div>
-    <div style="color: #718096; font-size: 0.9em; font-style: italic;">Jilin University & IB Group Korea</div>
   </div>
 
-  <div style="background: linear-gradient(135deg, #f0f7ff 0%, #ffffff 100%); border: 1px solid #bce0ff; border-radius: 12px; padding: 1.5em; box-shadow: 0 4px 16px rgba(66, 153, 225, 0.1); transition: all 0.3s ease;">
-    <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1em;">
-      <div style="display: flex; align-items: center; gap: 0.8em;">
-        <span style="background: linear-gradient(135deg, #4299e1 0%, #3182ce 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 1.5em;">🎓</span>
-        <h3 style="color: #2d3748; font-size: 1.1em; font-weight: 600; margin: 0;">First Class Scholarship of JLU</h3>
-      </div>
-      <span style="background: linear-gradient(135deg, #4299e1 0%, #3182ce 100%); color: white; padding: 0.3em 0.8em; border-radius: 20px; font-size: 0.85em; font-weight: 500;">2024</span>
+  <div style="background: #ffffff; border: 1px solid #e2e8f0; border-radius: 12px; padding: 1.2em;">
+    <div style="display: flex; align-items: center; gap: 0.8em; margin-bottom: 0.5em;">
+      <span style="font-size: 1.2em;">🎓</span>
+      <h3 style="color: #2d3748; font-size: 1em; font-weight: 600; margin: 0;">First Class Scholarship</h3>
     </div>
-    <div style="color: #4a5568; font-size: 0.95em; margin-bottom: 0.5em;">
-      <span style="color: #718096; font-weight: 500;">Award Rate:</span> 5% school-wide
+    <div style="color: #718096; font-size: 0.9em;">
+      Top 5% • 2024
     </div>
-    <div style="color: #718096; font-size: 0.9em; font-style: italic;">Jilin University</div>
   </div>
 
-  <div style="background: linear-gradient(135deg, #f0f9ff 0%, #ffffff 100%); border: 1px solid #b3e5fc; border-radius: 12px; padding: 1.5em; box-shadow: 0 4px 16px rgba(3, 169, 244, 0.1); transition: all 0.3s ease;">
-    <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1em;">
-      <div style="display: flex; align-items: center; gap: 0.8em;">
-        <span style="background: linear-gradient(135deg, #03a9f4 0%, #0288d1 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 1.5em;">⭐</span>
-        <h3 style="color: #2d3748; font-size: 1.1em; font-weight: 600; margin: 0;">Outstanding Communist Youth League Member</h3>
-      </div>
-      <span style="background: linear-gradient(135deg, #03a9f4 0%, #0288d1 100%); color: white; padding: 0.3em 0.8em; border-radius: 20px; font-size: 0.85em; font-weight: 500;">2024</span>
+  <div style="background: #ffffff; border: 1px solid #e2e8f0; border-radius: 12px; padding: 1.2em;">
+    <div style="display: flex; align-items: center; gap: 0.8em; margin-bottom: 0.5em;">
+      <span style="font-size: 1.2em;">⭐</span>
+      <h3 style="color: #2d3748; font-size: 1em; font-weight: 600; margin: 0;">Outstanding League Member</h3>
     </div>
-    <div style="color: #4a5568; font-size: 0.95em; margin-bottom: 0.5em;">
-      <span style="color: #718096; font-weight: 500;">Award Rate:</span> 5% school-wide
+    <div style="color: #718096; font-size: 0.9em;">
+      Top 5% • 2024
     </div>
-    <div style="color: #718096; font-size: 0.9em; font-style: italic;">Jilin University</div>
   </div>
 
-  <div style="background: linear-gradient(135deg, #f3f0ff 0%, #ffffff 100%); border: 1px solid #d4c6ff; border-radius: 12px; padding: 1.5em; box-shadow: 0 4px 16px rgba(124, 77, 255, 0.1); transition: all 0.3s ease;">
-    <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1em;">
-      <div style="display: flex; align-items: center; gap: 0.8em;">
-        <span style="background: linear-gradient(135deg, #7c4dff 0%, #651fff 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 1.5em;">🌟</span>
-        <h3 style="color: #2d3748; font-size: 1.1em; font-weight: 600; margin: 0;">Merit Student</h3>
-      </div>
-      <span style="background: linear-gradient(135deg, #7c4dff 0%, #651fff 100%); color: white; padding: 0.3em 0.8em; border-radius: 20px; font-size: 0.85em; font-weight: 500;">2023, 2024</span>
+  <div style="background: #ffffff; border: 1px solid #e2e8f0; border-radius: 12px; padding: 1.2em;">
+    <div style="display: flex; align-items: center; gap: 0.8em; margin-bottom: 0.5em;">
+      <span style="font-size: 1.2em;">🌟</span>
+      <h3 style="color: #2d3748; font-size: 1em; font-weight: 600; margin: 0;">Merit Student</h3>
     </div>
-    <div style="color: #4a5568; font-size: 0.95em; margin-bottom: 0.5em;">
-      <span style="color: #718096; font-weight: 500;">Award Rate:</span> 10% school-wide
+    <div style="color: #718096; font-size: 0.9em;">
+      Top 10% • 2023, 2024
     </div>
-    <div style="color: #718096; font-size: 0.9em; font-style: italic;">Jilin University</div>
   </div>
 </div>
 
