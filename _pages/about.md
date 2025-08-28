@@ -90,7 +90,7 @@ document.addEventListener('keydown', function(event) {
         </h3>
         
         <div style="color: #4a5568; font-size: 1em; margin-bottom: 1em; line-height: 1.5;">
-          <strong style="color: #2d3748;">Peiqi Ding</strong>†, <em>et al.</em>
+          <strong style="color: #2d3748;">Peiqi Ding, Ruiqing Wang, Yuqian He, <em>et al.</em>
         </div>
         
         <div style="color: #6b7280; font-size: 0.95em; line-height: 1.4;">
@@ -100,7 +100,7 @@ document.addEventListener('keydown', function(event) {
       
       <div style="flex: 0 0 300px;">
         <div style="background: white; border-radius: 16px; padding: 0.8em; box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);">
-          <img src="https://github.com/user-attachments/assets/d5914aa4-b495-417b-b55f-be0780dcb65e" alt="Framework" style="width: 100%; height: auto; border-radius: 12px; box-shadow: 0 2px 12px rgba(0, 0, 0, 0.15);" />
+          <img src="images/paper1.jpg" alt="Pterygium Research Framework" style="width: 100%; height: auto; border-radius: 12px; box-shadow: 0 2px 12px rgba(0, 0, 0, 0.15);" />
         </div>
       </div>
     </div>
@@ -121,7 +121,7 @@ document.addEventListener('keydown', function(event) {
         </h3>
         
         <div style="color: #4a5568; font-size: 1em; margin-bottom: 1em; line-height: 1.5;">
-          <strong style="color: #2d3748;">Xiaoran Shang</strong>†, <em>et al.</em>
+          <,Ruiqing style="color: #2d3748;">Ruoyun He, Peiqi Ding</strong>†, Yanan She</strong>† <em>et al.</em>
         </div>
         
         <div style="color: #6b7280; font-size: 0.95em; line-height: 1.4;">
@@ -131,7 +131,7 @@ document.addEventListener('keydown', function(event) {
       
       <div style="flex: 0 0 300px;">
         <div style="background: white; border-radius: 16px; padding: 0.8em; box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);">
-          <img src="https://github.com/user-attachments/assets/d5914aa4-b495-417b-b55f-be0780dcb65e" alt="Framework" style="width: 100%; height: auto; border-radius: 12px; box-shadow: 0 2px 12px rgba(0, 0, 0, 0.15);" />
+          <img src="images/paper2.jpg" alt="Osteosarcoma Research" style="width: 100%; height: auto; border-radius: 12px; box-shadow: 0 2px 12px rgba(0, 0, 0, 0.15);" />
         </div>
       </div>
     </div>
