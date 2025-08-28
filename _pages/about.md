@@ -192,9 +192,6 @@ document.addEventListener('keydown', function(event) {
   </div>
 </div>
 
-
-
-
 # 📖 Education
 
 <div style="background: linear-gradient(135deg, #f8f9ff 0%, #ffffff 100%); border: 1px solid #e1e8f7; border-radius: 16px; padding: 2em; margin-bottom: 2em; box-shadow: 0 4px 20px rgba(102, 126, 234, 0.1); transition: all 0.3s ease;">
@@ -245,19 +242,8 @@ document.addEventListener('keydown', function(event) {
   </div>
 </div>
 
-# 🎓 Academic Service
+# 🎓 Public Service
 
-- **Reviewer** for MM, FedKDD WorkShop
-
-
-# 🎓 Misc
-
-- I am a big fans of Derrick Rose, Chris Bumstead and David Dai (Liang zi).
-- I enjoy fitness, and my bench press max is over 100kg.
-- I enjoy FPS such as CSGO, VALORANT ...
-- I enjoy basketball, and have served as the starting forward for my college team.
-- I enjoy hiking, and have summited Tianmenshan, Cangshan and so on.
-  
 
 
 <!--
