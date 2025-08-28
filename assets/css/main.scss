@@ -148,23 +148,28 @@ body {
         }
     }
 }
+
+.award-item {
     border-bottom: 1px #e5e7eb solid;
     padding: 2em 0 2em 0;
     transition: all 0.3s ease;
     border-radius: 12px;
     margin-bottom: 1em;
-    
+
     &:hover {
         background: linear-gradient(135deg, #f8fafc 0%, #ffffff 100%);
         box-shadow: 0 4px 20px rgba(102, 126, 234, 0.08);
         transform: translateY(-2px);
     }
+}
 
-    .paper-box-image{
+.paper-box {
+    .paper-box-image {
         justify-content: center;
         display: flex;
         width: 100%;
         order: 2;
+
         img {
             max-width: 400px;
             border-radius: 16px;
@@ -179,20 +184,20 @@ body {
         }
     }
     
-    .paper-box-text{
+    .paper-box-text {
         max-width: 100%;
         order: 1;
     }
     
     @include breakpoint($medium) {
-        .paper-box-image{
+        .paper-box-image {
             justify-content: left;
             min-width: 200px;
             max-width: 40%;
             order: 1;
         }
         
-        .paper-box-text{
+        .paper-box-text {
             justify-content: left;
             padding-left: 2em;
             max-width: 60%;
