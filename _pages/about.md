@@ -62,7 +62,7 @@ document.addEventListener('keydown', function(event) {
 
 - **2025.8** 🏆 Won **Second Prize** in China Undergraduate Medical Innovation Tournament & The Belt and Road International Competition
 - **2025.7** 🏆 Won **Third Prize** in China Undergraduate Life Science Contest (Scientific Inquiry Category)
-- **2024.11** 🎖️ Awarded **Lei Jun Computer Undergraduate Scholarship** (¥10000)
+- **2024.5** 🎖️ Lead a **National-level** College Student Innovation and Entrepreneurship Training Program
 
 <!--
 # 📝 Publications 
@@ -151,31 +151,61 @@ document.addEventListener('keydown', function(event) {
 
 # 🎖 Scholarships and Honors
 
-<div class="scholarship-item">
-  <div class="scholarship-title">Dong Rong Scholarship</div>
-  <div class="scholarship-details">
-    <strong>Award Rate:</strong> 10/1213 • <em>Jilin University & IB Group Korea</em> • <strong>2024</strong>
+<div class="scholarship-container" style="display: grid; gap: 1.5em;">
+  <div style="background: linear-gradient(135deg, #fff8f0 0%, #ffffff 100%); border: 1px solid #ffd7b5; border-radius: 12px; padding: 1.5em; box-shadow: 0 4px 16px rgba(255, 183, 138, 0.1); transition: all 0.3s ease;">
+    <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1em;">
+      <div style="display: flex; align-items: center; gap: 0.8em;">
+        <span style="background: linear-gradient(135deg, #ff9a57 0%, #ff7643 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 1.5em;">🏆</span>
+        <h3 style="color: #2d3748; font-size: 1.1em; font-weight: 600; margin: 0;">Dong Rong Scholarship</h3>
+      </div>
+      <span style="background: linear-gradient(135deg, #ff9a57 0%, #ff7643 100%); color: white; padding: 0.3em 0.8em; border-radius: 20px; font-size: 0.85em; font-weight: 500;">2024</span>
+    </div>
+    <div style="color: #4a5568; font-size: 0.95em; margin-bottom: 0.5em;">
+      <span style="color: #718096; font-weight: 500;">Award Rate:</span> 10/1213
+    </div>
+    <div style="color: #718096; font-size: 0.9em; font-style: italic;">Jilin University & IB Group Korea</div>
   </div>
-</div>
 
-<div class="scholarship-item">
-  <div class="scholarship-title">First Class Scholarship of JLU</div>
-  <div class="scholarship-details">
-    <strong>Award Rate:</strong> 5% school-wide • <em>Jilin University</em> • <strong>2024</strong>
+  <div style="background: linear-gradient(135deg, #f0f7ff 0%, #ffffff 100%); border: 1px solid #bce0ff; border-radius: 12px; padding: 1.5em; box-shadow: 0 4px 16px rgba(66, 153, 225, 0.1); transition: all 0.3s ease;">
+    <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1em;">
+      <div style="display: flex; align-items: center; gap: 0.8em;">
+        <span style="background: linear-gradient(135deg, #4299e1 0%, #3182ce 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 1.5em;">🎓</span>
+        <h3 style="color: #2d3748; font-size: 1.1em; font-weight: 600; margin: 0;">First Class Scholarship of JLU</h3>
+      </div>
+      <span style="background: linear-gradient(135deg, #4299e1 0%, #3182ce 100%); color: white; padding: 0.3em 0.8em; border-radius: 20px; font-size: 0.85em; font-weight: 500;">2024</span>
+    </div>
+    <div style="color: #4a5568; font-size: 0.95em; margin-bottom: 0.5em;">
+      <span style="color: #718096; font-weight: 500;">Award Rate:</span> 5% school-wide
+    </div>
+    <div style="color: #718096; font-size: 0.9em; font-style: italic;">Jilin University</div>
   </div>
-</div>
 
-<div class="scholarship-item">
-  <div class="scholarship-title">Outstanding Communist Youth League Member of Jilin University</div>
-  <div class="scholarship-details">
-    <strong>Award Rate:</strong> 5% school-wide • <em>Jilin University</em> • <strong>2024</strong>
+  <div style="background: linear-gradient(135deg, #f0f9ff 0%, #ffffff 100%); border: 1px solid #b3e5fc; border-radius: 12px; padding: 1.5em; box-shadow: 0 4px 16px rgba(3, 169, 244, 0.1); transition: all 0.3s ease;">
+    <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1em;">
+      <div style="display: flex; align-items: center; gap: 0.8em;">
+        <span style="background: linear-gradient(135deg, #03a9f4 0%, #0288d1 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 1.5em;">⭐</span>
+        <h3 style="color: #2d3748; font-size: 1.1em; font-weight: 600; margin: 0;">Outstanding Communist Youth League Member</h3>
+      </div>
+      <span style="background: linear-gradient(135deg, #03a9f4 0%, #0288d1 100%); color: white; padding: 0.3em 0.8em; border-radius: 20px; font-size: 0.85em; font-weight: 500;">2024</span>
+    </div>
+    <div style="color: #4a5568; font-size: 0.95em; margin-bottom: 0.5em;">
+      <span style="color: #718096; font-weight: 500;">Award Rate:</span> 5% school-wide
+    </div>
+    <div style="color: #718096; font-size: 0.9em; font-style: italic;">Jilin University</div>
   </div>
-</div>
 
-<div class="scholarship-item">
-  <div class="scholarship-title">Merit Student</div>
-  <div class="scholarship-details">
-    <strong>Award Rate:</strong> 10% school-wide • <em>Jilin University</em> • <strong>2023, 2024</strong>
+  <div style="background: linear-gradient(135deg, #f3f0ff 0%, #ffffff 100%); border: 1px solid #d4c6ff; border-radius: 12px; padding: 1.5em; box-shadow: 0 4px 16px rgba(124, 77, 255, 0.1); transition: all 0.3s ease;">
+    <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1em;">
+      <div style="display: flex; align-items: center; gap: 0.8em;">
+        <span style="background: linear-gradient(135deg, #7c4dff 0%, #651fff 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 1.5em;">🌟</span>
+        <h3 style="color: #2d3748; font-size: 1.1em; font-weight: 600; margin: 0;">Merit Student</h3>
+      </div>
+      <span style="background: linear-gradient(135deg, #7c4dff 0%, #651fff 100%); color: white; padding: 0.3em 0.8em; border-radius: 20px; font-size: 0.85em; font-weight: 500;">2023, 2024</span>
+    </div>
+    <div style="color: #4a5568; font-size: 0.95em; margin-bottom: 0.5em;">
+      <span style="color: #718096; font-weight: 500;">Award Rate:</span> 10% school-wide
+    </div>
+    <div style="color: #718096; font-size: 0.9em; font-style: italic;">Jilin University</div>
   </div>
 </div>
 
