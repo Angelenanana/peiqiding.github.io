@@ -79,30 +79,23 @@ document.addEventListener('keydown', function(event) {
 <div style="background: linear-gradient(135deg, #f0f4f8 0%, #ffffff 100%); border: 1px solid #e2e8f0; border-radius: 16px; padding: 2em; margin-bottom: 2em; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05); transition: all 0.3s ease;">
   <div style="display: flex; flex-direction: column; gap: 1.5em;">
     
-    <div style="display: flex; gap: 2em; align-items: flex-start;">
-      <div style="flex: 1; min-width: 0;">
-        <div style="background: linear-gradient(135deg, #6b7280 0%, #4b5563 100%); color: white; padding: 0.3em 0.8em; border-radius: 20px; display: inline-block; font-size: 0.8em; font-weight: 600; margin-bottom: 1em;">
-          Under Review
-        </div>
-        
-        <h3 style="color: #2d3748; font-size: 1.3em; font-weight: 700; margin: 0 0 0.8em 0; line-height: 1.3;">
+    <div class="content-wrapper">
+        <h3 class="paper-title">
           Risk factors for pterygium: latest research progress on major pathogenesis
         </h3>
         
-        <div style="color: #4a5568; font-size: 1em; margin-bottom: 1em; line-height: 1.5;">
-          <strong style="color: #2d3748;">Peiqi Ding, Ruiqing Wang, Yuqian He, <em>et al.</em>
+        <div class="paper-authors">
+          <strong>Peiqi Ding</strong>, Ruiqing Wang, Yuqian He, <em>et al.</em>
         </div>
         
-        <div style="color: #6b7280; font-size: 0.95em; line-height: 1.4;">
+        <div class="paper-journal">
           Experimental Eye Research（Q2，IF=3.77）
         </div>
-      </div>
+    </div>
       
-      <div style="flex: 0 0 300px;">
-        <div style="background: white; border-radius: 16px; padding: 0.8em; box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);">
-          <img src="images/paper1.jpg" alt="Pterygium Research Framework" style="width: 100%; height: auto; border-radius: 12px; box-shadow: 0 2px 12px rgba(0, 0, 0, 0.15);" />
-        </div>
-      </div>
+    <div class="image-wrapper">
+        <img src="images/paper1.jpg" alt="Pterygium Research Framework" />
+    </div>
     </div>
   </div>
 </div>
@@ -110,30 +103,23 @@ document.addEventListener('keydown', function(event) {
 <div style="background: linear-gradient(135deg, #f0f4f8 0%, #ffffff 100%); border: 1px solid #e2e8f0; border-radius: 16px; padding: 2em; margin-bottom: 2em; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05); transition: all 0.3s ease;">
   <div style="display: flex; flex-direction: column; gap: 1.5em;">
     
-    <div style="display: flex; gap: 2em; align-items: flex-start;">
-      <div style="flex: 1; min-width: 0;">
-        <div style="background: linear-gradient(135deg, #6b7280 0%, #4b5563 100%); color: white; padding: 0.3em 0.8em; border-radius: 20px; display: inline-block; font-size: 0.8em; font-weight: 600; margin-bottom: 1em;">
-          Under Review
-        </div>
-        
-        <h3 style="color: #2d3748; font-size: 1.3em; font-weight: 700; margin: 0 0 0.8em 0; line-height: 1.3;">
+    <div class="content-wrapper">
+        <h3 class="paper-title">
           Targeting mechanotransduction in osteosarcoma
         </h3>
         
-        <div style="color: #4a5568; font-size: 1em; margin-bottom: 1em; line-height: 1.5;">
-          <,Ruiqing style="color: #2d3748;">Ruoyun He, Peiqi Ding</strong>†, Yanan She</strong>† <em>et al.</em>
+        <div class="paper-authors">
+          <strong>Ruoyun He</strong>, <strong>Peiqi Ding</strong>†, <strong>Yanan She</strong>† <em>et al.</em>
         </div>
         
-        <div style="color: #6b7280; font-size: 0.95em; line-height: 1.4;">
+        <div class="paper-journal">
           Biochem Biophys Res Commun（Q3，IF=2.2）
         </div>
-      </div>
+    </div>
       
-      <div style="flex: 0 0 300px;">
-        <div style="background: white; border-radius: 16px; padding: 0.8em; box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);">
-          <img src="images/paper2.jpg" alt="Osteosarcoma Research" style="width: 100%; height: auto; border-radius: 12px; box-shadow: 0 2px 12px rgba(0, 0, 0, 0.15);" />
-        </div>
-      </div>
+    <div class="image-wrapper">
+        <img src="images/paper2.jpg" alt="Osteosarcoma Research" />
+    </div>
     </div>
   </div>
 </div>
