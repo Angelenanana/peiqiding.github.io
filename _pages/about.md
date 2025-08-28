@@ -71,56 +71,44 @@ document.addEventListener('keydown', function(event) {
 
 # 📃 Publications
 
-<div style="color: #666; font-size: 0.9em; margin-bottom: 2em;">† Equal Contribution</div>
+<div class="section-description" style="color: #666; font-size: 0.9em; margin-bottom: 2em; display: flex; justify-content: space-between; align-items: center;">
+  <span>† Equal Contribution</span>
+  <div class="year-badge" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 0.3em 1em; border-radius: 20px; font-size: 0.9em; font-weight: 600;">2025</div>
+</div>
 
-## <span style="color: #667eea; font-weight: 600;">2025</span>
-
-
-<div style="background: linear-gradient(135deg, #f0f4f8 0%, #ffffff 100%); border: 1px solid #e2e8f0; border-radius: 16px; padding: 2em; margin-bottom: 2em; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05); transition: all 0.3s ease;">
-  <div style="display: flex; flex-direction: column; gap: 1.5em;">
+<div class="paper-box" style="display: flex; gap: 2em; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 12px; padding: 1.5em; margin-bottom: 1.5em; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.05);">
+  <div class="paper-content" style="flex: 1;">
+    <h3 style="color: #1a202c; font-size: 1.2em; font-weight: 600; margin: 0 0 0.8em 0;">Risk factors for pterygium: latest research progress on major pathogenesis</h3>
     
-    <div class="content-wrapper">
-        <h3 class="paper-title">
-          Risk factors for pterygium: latest research progress on major pathogenesis
-        </h3>
-        
-        <div class="paper-authors">
-          <strong>Peiqi Ding</strong>, Ruiqing Wang, Yuqian He, <em>et al.</em>
-        </div>
-        
-        <div class="paper-journal">
-          Experimental Eye Research（Q2，IF=3.77）
-        </div>
+    <div style="color: #4a5568; font-size: 0.95em; margin-bottom: 0.8em;">
+      <strong style="color: #2d3748;">Peiqi Ding</strong>, Ruiqing Wang, Yuqian He, <em>et al.</em>
     </div>
-      
-    <div class="image-wrapper">
-        <img src="images/paper1.jpg" alt="Pterygium Research Framework" />
+    
+    <div style="color: #6b7280; font-size: 0.9em; font-style: italic;">
+      Experimental Eye Research（Q2，IF=3.77）
     </div>
-    </div>
+  </div>
+  
+  <div style="flex: 0 0 160px;">
+    <img src="images/paper1.jpg" alt="Pterygium Research Framework" style="width: 100%; border-radius: 8px; border: 1px solid #e2e8f0;" />
   </div>
 </div>
 
-<div style="background: linear-gradient(135deg, #f0f4f8 0%, #ffffff 100%); border: 1px solid #e2e8f0; border-radius: 16px; padding: 2em; margin-bottom: 2em; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05); transition: all 0.3s ease;">
-  <div style="display: flex; flex-direction: column; gap: 1.5em;">
+<div class="paper-box" style="display: flex; gap: 2em; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 12px; padding: 1.5em; margin-bottom: 1.5em; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.05);">
+  <div class="paper-content" style="flex: 1;">
+    <h3 style="color: #1a202c; font-size: 1.2em; font-weight: 600; margin: 0 0 0.8em 0;">Targeting mechanotransduction in osteosarcoma</h3>
     
-    <div class="content-wrapper">
-        <h3 class="paper-title">
-          Targeting mechanotransduction in osteosarcoma
-        </h3>
-        
-        <div class="paper-authors">
-          <strong>Ruoyun He</strong>, <strong>Peiqi Ding</strong>†, <strong>Yanan She</strong>† <em>et al.</em>
-        </div>
-        
-        <div class="paper-journal">
-          Biochem Biophys Res Commun（Q3，IF=2.2）
-        </div>
+    <div style="color: #4a5568; font-size: 0.95em; margin-bottom: 0.8em;">
+      <strong style="color: #2d3748;">Ruoyun He</strong>, <strong style="color: #2d3748;">Peiqi Ding</strong>†, <strong style="color: #2d3748;">Yanan She</strong>† <em>et al.</em>
     </div>
-      
-    <div class="image-wrapper">
-        <img src="images/paper2.jpg" alt="Osteosarcoma Research" />
+    
+    <div style="color: #6b7280; font-size: 0.9em; font-style: italic;">
+      Biochem Biophys Res Commun（Q3，IF=2.2）
     </div>
-    </div>
+  </div>
+  
+  <div style="flex: 0 0 160px;">
+    <img src="images/paper2.jpg" alt="Osteosarcoma Research" style="width: 100%; border-radius: 8px; border: 1px solid #e2e8f0;" />
   </div>
 </div>
 
