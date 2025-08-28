@@ -42,12 +42,112 @@
 
 /* Custom Enhanced Styles */
 
+/* 全局样式增强 */
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    line-height: 1.8;
+    color: #2d3748;
+}
+
+/* 标题样式美化 */
+.page__content {
+    h1, h2 {
+        color: #1a365d;
+        border-bottom: 2px solid #e2e8f0;
+        padding-bottom: 0.5em;
+        margin-top: 2em;
+    }
+
+    a {
+        color: #3182ce;
+        text-decoration: none;
+        transition: color 0.3s ease;
+        
+        &:hover {
+            color: #2c5282;
+            text-decoration: underline;
+        }
+    }
+}
+
+/* 论文展示框样式 */
 .paper-box {
     display: flex;
     justify-content: left;
-    align-items: center;
+    align-items: flex-start;
     flex-direction: row;
     flex-wrap: wrap;
+    margin: 1.5em 0;
+    padding: 1.5em;
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    
+    &:hover {
+        transform: translateY(-2px);
+        box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+    }
+    
+    img {
+        max-width: 200px;
+        height: auto;
+        border-radius: 4px;
+        margin-right: 2em;
+    }
+}
+
+/* 奖学金和荣誉展示样式 */
+.award-icon {
+    font-size: 1.2em;
+    color: #d69e2e;
+    margin-right: 0.5em;
+}
+
+/* 个人简介部分样式 */
+#about-me {
+    background: #f7fafc;
+    padding: 2em;
+    border-radius: 8px;
+    margin: 2em 0;
+    
+    strong {
+        color: #2d3748;
+        font-weight: 600;
+    }
+}
+
+/* WeChat二维码模态框美化 */
+#wechatModal {
+    .modal-content {
+        background: white;
+        border-radius: 16px;
+        padding: 2em;
+        box-shadow: 0 8px 32px rgba(0,0,0,0.2);
+        
+        img {
+            border-radius: 12px;
+            transition: transform 0.3s ease;
+            
+            &:hover {
+                transform: scale(1.02);
+            }
+        }
+    }
+}
+
+/* 响应式布局优化 */
+@media (max-width: 768px) {
+    .paper-box {
+        flex-direction: column;
+        
+        img {
+            max-width: 100%;
+            margin-right: 0;
+            margin-bottom: 1em;
+        }
+    }
+}
     border-bottom: 1px #e5e7eb solid;
     padding: 2em 0 2em 0;
     transition: all 0.3s ease;
