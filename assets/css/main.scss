@@ -699,6 +699,7 @@ h1:before, .anchor:before {
     object-fit: cover !important;
     aspect-ratio: 1 / 1 !important;
     border-radius: 50% !important;
+    margin-left: -15px; /* 向左移动头像 */
     
     @include breakpoint($medium) {
         max-width: 150px;
@@ -720,7 +721,7 @@ h1:before, .anchor:before {
         border-radius: 50%;
         display: flex !important;
         align-items: center;
-        justify-content: center;
+        justify-content: flex-start; /* 调整容器内对齐方式 */
     }
 }
 
