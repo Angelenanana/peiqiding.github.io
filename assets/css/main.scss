@@ -912,17 +912,11 @@ html {
 
 /* Enhanced profile styling */
 .profile_box {
-    background: linear-gradient(135deg, #f8fafc 0%, #ffffff 100%);
-    border-radius: 20px;
-    padding: 2em;
-    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.08);
-    border: 1px solid #e2e8f0;
+    background: none;
+    padding: 1em 0;
+    border: none;
+    box-shadow: none;
     transition: all 0.3s ease;
-    
-    &:hover {
-        transform: translateY(-2px);
-        box-shadow: 0 12px 40px rgba(0, 0, 0, 0.12);
-    }
 }
 
 /* Modern button styling */
