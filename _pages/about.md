@@ -203,10 +203,10 @@ document.addEventListener('keydown', function(event) {
 
 # 📖 Education
 
-<div style="background: linear-gradient(135deg, #f8f9ff 0%, #ffffff 100%); border: 1px solid #e1e8f7; border-radius: 16px; padding: 2em; margin-bottom: 2em; box-shadow: 0 4px 20px rgba(102, 126, 234, 0.1); transition: all 0.3s ease;">
+<div style="background: linear-gradient(135deg, #e0f2fe 0%, #ffffff 100%); border: 1px solid #7dd3fc; border-radius: 16px; padding: 2em; margin-bottom: 2em; box-shadow: 0 4px 20px rgba(14, 165, 233, 0.1); transition: all 0.3s ease;">
   <div style="display: flex; align-items: center; gap: 1.5em;">
     <div style="flex: 0 0 80px;">
-      <div style="width: 80px; height: 80px; border-radius: 50%; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); display: flex; align-items: center; justify-content: center; box-shadow: 0 4px 16px rgba(102, 126, 234, 0.3); position: relative;">
+      <div style="width: 80px; height: 80px; border-radius: 50%; background: linear-gradient(135deg, #0ea5e9 0%, #0284c7 100%); display: flex; align-items: center; justify-content: center; box-shadow: 0 4px 16px rgba(14, 165, 233, 0.3); position: relative;">
         <img src="images/jlu-logo.jpg" alt="Jilin University Logo" style="width: 60px; height: 60px; border-radius: 50%; object-fit: contain; background: white; padding: 8px; position: absolute;" onload="this.style.display='block';" onerror="this.style.display='none'; this.parentElement.querySelector('.fallback').style.display='flex';" />
         <div class="fallback" style="display: flex; color: white; font-weight: bold; font-size: 1.1em; align-items: center; justify-content: center; width: 100%; height: 100%; text-align: center;">JLU</div>
       </div>
@@ -214,7 +214,7 @@ document.addEventListener('keydown', function(event) {
     <div style="flex: 1;">
       <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 0.8em;">
         <h3 style="color: #2d3748; font-size: 1.3em; font-weight: 700; margin: 0; line-height: 1.2;">Undergraduate Student</h3>
-        <span style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 0.3em 0.8em; border-radius: 20px; font-size: 0.85em; font-weight: 600;">2022.08 - Present</span>
+        <span style="background: linear-gradient(135deg, #0ea5e9 0%, #0284c7 100%); color: white; padding: 0.3em 0.8em; border-radius: 20px; font-size: 0.85em; font-weight: 600;">2022.08 - Present</span>
       </div>
       <div style="color: #4a5568; font-size: 1.1em; margin-bottom: 0.5em; font-weight: 600;">
         The Second Norman Bethune Hospital, Jilin University
