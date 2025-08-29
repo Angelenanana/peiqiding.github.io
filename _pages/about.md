@@ -153,10 +153,7 @@ document.addEventListener('keydown', function(event) {
         </div>
       </div>
       <div style="flex: 0 0 200px;">
-        <img src="images/project1.png" alt="Cervical Cancer Research Project" style="width: 100%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';" />
-        <div style="display: none; background: #f7fafc; border: 2px dashed #cbd5e0; border-radius: 12px; height: 150px; display: flex; align-items: center; justify-content: center; color: #718096; font-size: 0.9em;">
-          📊 Project Image
-        </div>
+        <img src="images/project2.png" alt="Cervical Cancer Research Project" style="width: 100%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);" />
       </div>
     </div>
   </div>
@@ -194,10 +191,7 @@ document.addEventListener('keydown', function(event) {
         </div>
       </div>
       <div style="flex: 0 0 200px;">
-        <img src="images/project2.png" alt="Corneal Research Project" style="width: 100%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';" />
-        <div style="display: none; background: #f7fafc; border: 2px dashed #cbd5e0; border-radius: 12px; height: 150px; display: flex; align-items: center; justify-content: center; color: #718096; font-size: 0.9em;">
-          📊 Project Image
-        </div>
+        <img src="images/project1.png" alt="Corneal Research Project" style="width: 100%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);" />
       </div>
     </div>
   </div>
