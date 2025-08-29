@@ -514,7 +514,7 @@ h1:before, .anchor:before {
 }
 
 .education-item {
-    border-left: 4px solid #667eea;
+    border-left: none; /* 移除蓝色左边框 */
     padding-left: 1em;
     margin-bottom: 2em;
 }
@@ -699,7 +699,9 @@ h1:before, .anchor:before {
     object-fit: cover !important;
     aspect-ratio: 1 / 1 !important;
     border-radius: 50% !important;
-    margin-left: -30px; /* 向左移动头像 */
+    margin-left: 0; /* 居中对齐 */
+    border: none !important; /* 移除边框 */
+    padding: 0 !important; /* 移除内边距 */
     
     @include breakpoint($medium) {
         width: 150px !important;
@@ -721,8 +723,10 @@ h1:before, .anchor:before {
         border-radius: 50%;
         display: flex !important;
         align-items: center;
-        justify-content: flex-start; /* 调整容器内对齐方式 */
-        background: white; /* 添加白色背景 */
+        justify-content: center; /* 居中对齐 */
+        background: transparent; /* 透明背景 */
+        border: none !important; /* 移除边框 */
+        padding: 0 !important; /* 移除内边距 */
     }
 }
 
