@@ -207,17 +207,17 @@ document.addEventListener('keydown', function(event) {
 
 # 🏆 Competition Awards
 
-- **China Undergraduate Medical Innovation Tournament & The Belt and Road International Competitio--Second Prize** (2025)  
-  *Jinan, Shandong*
+- **China Undergraduate Medical Innovation Tournament & The Belt and Road International Competition:Second Prize** (2025)  
+  *Core member (Jinan, Shandong)*
 
-- **China Undergraduate Life Science Contest (Scientific Inquiry Category)--Third Prize** (2025)  
-  *Changchun, Jilin*
+- **China Undergraduate Life Science Contest (Scientific Inquiry Category):Third Prize** (2025)  
+  *Core member (Changchun, Jilin)*
 
-- **China International College Students Innovation Competition--Silver Medal** (2024)  
-  *Changchun, Jilin*
+- **China International College Students Innovation Competition:Silver Medal** (2024)  
+  *Core member (Changchun, Jilin)*
 
-- **International Genetically Engineered Machine competition** (2023)  
-  *Paris, France*
+- **International Genetically Engineered Machine competition (iGEM):Silver Medal** (2023)  
+  *Leader (Paris, France)*
 
 <!-- <div class="award-item">
   <span class="award-medal bronze">🥉 Third Prize</span>
