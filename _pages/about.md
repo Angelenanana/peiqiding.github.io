@@ -123,7 +123,7 @@ document.addEventListener('keydown', function(event) {
   <!-- 国家级项目 -->
   <div style="background: linear-gradient(135deg, #fff5f5 0%, #ffffff 100%); border: 1px solid #fed7d7; border-radius: 16px; padding: 2em; transition: all 0.3s ease; box-shadow: 0 4px 20px rgba(245, 101, 101, 0.08); position: relative; overflow: hidden;">
     <div style="position: absolute; top: 0; right: 0; background: linear-gradient(135deg, #e53e3e 0%, #c53030 100%); color: white; padding: 0.5em 1em; border-radius: 0 16px 0 12px; font-size: 0.85em; font-weight: 600; box-shadow: 0 2px 8px rgba(229, 62, 62, 0.3);">
-      🏆 省级优秀结题
+      🏆 Provincial-level Excellent Completion of Project
     </div>
     <div style="display: flex; gap: 2em; align-items: flex-start;">
       <div style="flex: 1;">
@@ -164,7 +164,7 @@ document.addEventListener('keydown', function(event) {
   <!-- 省级项目 -->
   <div style="background: linear-gradient(135deg, #f0fff4 0%, #ffffff 100%); border: 1px solid #c6f6d5; border-radius: 16px; padding: 2em; transition: all 0.3s ease; box-shadow: 0 4px 20px rgba(72, 187, 120, 0.08); position: relative; overflow: hidden;">
     <div style="position: absolute; top: 0; right: 0; background: linear-gradient(135deg, #48bb78 0%, #38a169 100%); color: white; padding: 0.5em 1em; border-radius: 0 16px 0 12px; font-size: 0.85em; font-weight: 600; box-shadow: 0 2px 8px rgba(72, 187, 120, 0.3);">
-      🏅 国家级立项
+      🏅 National-level project approval
     </div>
     <div style="display: flex; gap: 2em; align-items: flex-start;">
       <div style="flex: 1;">
