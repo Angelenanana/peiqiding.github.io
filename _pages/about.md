@@ -104,7 +104,7 @@ document.addEventListener('keydown', function(event) {
           Targeting mechanotransduction in osteosarcoma
         </h3>
         <div style="color: #4a5568; font-size: 0.95em; margin-bottom: 0.8em; line-height: 1.6;">
-          <strong style="color: #2d3748;">Ruoyun He</strong>, <strong style="color: #2d3748;">Peiqi Ding</strong>†, <strong style="color: #2d3748;">Yanan She</strong>† <em>et al.</em>
+          Ruoyun He, <strong style="color: #2d3748;">Peiqi Ding</strong>†, Yanan She† <em>et al.</em>
         </div>
         <div style="display: inline-block; background: linear-gradient(135deg, #ff9144 0%, #ff6b24 100%); padding: 0.4em 1em; border-radius: 20px; color: white; font-size: 0.9em;">
           Biochem Biophys Res Commun（Q3，IF=2.2）
@@ -152,7 +152,7 @@ document.addEventListener('keydown', function(event) {
           </span>
         </div>
       </div>
-      <div style="flex: 0 0 200px;">
+      <div style="flex: 0 0 200px; display: flex; justify-content: center; align-items: center;">
         <img src="images/project2.png" alt="Cervical Cancer Research Project" style="width: 100%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);" />
       </div>
     </div>
@@ -190,7 +190,7 @@ document.addEventListener('keydown', function(event) {
           </span>
         </div>
       </div>
-      <div style="flex: 0 0 200px;">
+      <div style="flex: 0 0 200px; display: flex; justify-content: center; align-items: center;">
         <img src="images/project1.png" alt="Corneal Research Project" style="width: 100%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);" />
       </div>
     </div>
