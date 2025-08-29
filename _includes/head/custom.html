@@ -124,18 +124,18 @@
 
 /* Remove profile box styling - keep it simple */
 .profile_box {
-    background: none;
-    border: none;
-    box-shadow: none;
-    padding: 0;
-    margin: 0;
+    background: none !important;
+    border: none !important;
+    box-shadow: none !important;
+    padding: 0 !important;
+    margin: 0 !important;
 }
 
 /* Simple author content styling */
 .author__content {
-    background: none;
-    border: none;
-    box-shadow: none;
+    background: none !important;
+    border: none !important;
+    box-shadow: none !important;
 }
 
 .author__name {
@@ -150,9 +150,9 @@
     font-size: 1em;
     line-height: 1.6;
     margin-bottom: 1em;
-    background: none;
-    border: none;
-    padding: 0;
+    background: none !important;
+    border: none !important;
+    padding: 0 !important;
 }
 
 /* Remove navigation blue highlight */
@@ -166,12 +166,27 @@
     color: #764ba2 !important;
 }
 
-/* Remove any unwanted borders */
+/* Remove any unwanted borders and backgrounds */
 blockquote {
     border-left: none !important;
-    background: none;
-    padding: 0;
-    margin: 1em 0;
+    background: none !important;
+    padding: 0 !important;
+    margin: 1em 0 !important;
+}
+
+/* Remove any blue backgrounds from about-me section */
+#about-me {
+    background: none !important;
+    padding: 0 !important;
+    border-radius: 0 !important;
+    margin: 0 !important;
+}
+
+/* Remove any blue backgrounds from profile sections */
+.profile-section, .profile-area, .profile-container {
+    background: none !important;
+    border: none !important;
+    box-shadow: none !important;
 }
 
 /* Simple social links */
@@ -183,25 +198,30 @@ blockquote {
     color: #4a5568;
     text-decoration: none;
     padding: 0;
-    background: none;
-    border: none;
+    background: none !important;
+    border: none !important;
 }
 
 .author__urls-wrapper .social-icons a:hover {
     color: #667eea;
-    background: none;
+    background: none !important;
     transform: none;
     box-shadow: none;
 }
 
 /* Simple description styling */
 .author__urls-wrapper .social-icons li:first-child div {
-    background: none;
-    border: none;
-    padding: 0;
+    background: none !important;
+    border: none !important;
+    padding: 0 !important;
     margin-bottom: 1em;
     color: #4a5568;
     font-weight: normal;
+}
+
+/* Remove any other potential blue backgrounds */
+*[style*="background"] {
+    background: none !important;
 }
 
 /* Responsive improvements */
