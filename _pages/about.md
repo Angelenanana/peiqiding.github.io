@@ -117,6 +117,94 @@ document.addEventListener('keydown', function(event) {
   </div>
 </div>
 
+# 📃 Innovation Projects
+
+<div style="display: grid; gap: 2em;">
+  <!-- 国家级项目 -->
+  <div style="background: linear-gradient(135deg, #fff5f5 0%, #ffffff 100%); border: 1px solid #fed7d7; border-radius: 16px; padding: 2em; transition: all 0.3s ease; box-shadow: 0 4px 20px rgba(245, 101, 101, 0.08); position: relative; overflow: hidden;">
+    <div style="position: absolute; top: 0; right: 0; background: linear-gradient(135deg, #e53e3e 0%, #c53030 100%); color: white; padding: 0.5em 1em; border-radius: 0 16px 0 12px; font-size: 0.85em; font-weight: 600; box-shadow: 0 2px 8px rgba(229, 62, 62, 0.3);">
+      🏆 国家级优秀结题
+    </div>
+    <div style="display: flex; gap: 2em; align-items: flex-start;">
+      <div style="flex: 1;">
+        <h3 style="color: #2d3748; font-size: 1.25em; font-weight: 600; margin: 0 0 1em 0; line-height: 1.4;">
+          Research on the Mechanism of Fat4 Deficiency in Promoting the Mixed EMT State and Metastasis of Cervical Cancer
+        </h3>
+        <div style="color: #4a5568; font-size: 0.95em; margin-bottom: 1em; line-height: 1.6;">
+          <strong style="color: #2d3748;">Principal Investigator:</strong> Peiqi Ding<br>
+          <strong style="color: #2d3748;">Duration:</strong> 2024.05 - 2025.05<br>
+          <strong style="color: #2d3748;">Funding:</strong> National College Student Innovation and Entrepreneurship Training Program
+        </div>
+        <div style="background: #f7fafc; border-left: 4px solid #e53e3e; padding: 1em; border-radius: 0 8px 8px 0; margin-bottom: 1em;">
+          <div style="color: #2d3748; font-weight: 600; margin-bottom: 0.5em;">🔬 Research Focus:</div>
+          <div style="color: #4a5568; font-size: 0.9em; line-height: 1.6;">
+            Investigating the role of Fat4 deficiency in promoting epithelial-mesenchymal transition (EMT) and metastasis in cervical cancer, with potential implications for targeted therapy development.
+          </div>
+        </div>
+        <div style="display: flex; gap: 1em; flex-wrap: wrap;">
+          <span style="background: linear-gradient(135deg, #e53e3e 0%, #c53030 100%); color: white; padding: 0.4em 1em; border-radius: 20px; font-size: 0.85em; font-weight: 500;">
+            🧬 Cancer Biology
+          </span>
+          <span style="background: linear-gradient(135deg, #3182ce 0%, #2c5aa0 100%); color: white; padding: 0.4em 1em; border-radius: 20px; font-size: 0.85em; font-weight: 500;">
+            🔬 EMT Mechanism
+          </span>
+          <span style="background: linear-gradient(135deg, #38a169 0%, #2f855a 100%); color: white; padding: 0.4em 1em; border-radius: 20px; font-size: 0.85em; font-weight: 500;">
+            🎯 Targeted Therapy
+          </span>
+        </div>
+      </div>
+      <div style="flex: 0 0 200px;">
+        <img src="proof/mainresults.png" alt="Cervical Cancer Research Results" style="width: 100%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';" />
+        <div style="display: none; background: #f7fafc; border: 2px dashed #cbd5e0; border-radius: 12px; height: 150px; display: flex; align-items: center; justify-content: center; color: #718096; font-size: 0.9em;">
+          📊 Research Results
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- 省级项目 -->
+  <div style="background: linear-gradient(135deg, #f0fff4 0%, #ffffff 100%); border: 1px solid #c6f6d5; border-radius: 16px; padding: 2em; transition: all 0.3s ease; box-shadow: 0 4px 20px rgba(72, 187, 120, 0.08); position: relative; overflow: hidden;">
+    <div style="position: absolute; top: 0; right: 0; background: linear-gradient(135deg, #48bb78 0%, #38a169 100%); color: white; padding: 0.5em 1em; border-radius: 0 16px 0 12px; font-size: 0.85em; font-weight: 600; box-shadow: 0 2px 8px rgba(72, 187, 120, 0.3);">
+      🏅 省级优秀结题
+    </div>
+    <div style="display: flex; gap: 2em; align-items: flex-start;">
+      <div style="flex: 1;">
+        <h3 style="color: #2d3748; font-size: 1.25em; font-weight: 600; margin: 0 0 1em 0; line-height: 1.4;">
+          The Effects of BMP4 on Corneal Neolymphangiogenesis and Neovascularization as the Dual Arms of Corneal Immunity
+        </h3>
+        <div style="color: #4a5568; font-size: 0.95em; margin-bottom: 1em; line-height: 1.6;">
+          <strong style="color: #2d3748;">Principal Investigator:</strong> Peiqi Ding<br>
+          <strong style="color: #2d3748;">Duration:</strong> 2023.05 - 2024.05<br>
+          <strong style="color: #2d3748;">Funding:</strong> Provincial College Student Innovation and Entrepreneurship Training Program
+        </div>
+        <div style="background: #f7fafc; border-left: 4px solid #48bb78; padding: 1em; border-radius: 0 8px 8px 0; margin-bottom: 1em;">
+          <div style="color: #2d3748; font-weight: 600; margin-bottom: 0.5em;">🔬 Research Focus:</div>
+          <div style="color: #4a5568; font-size: 0.9em; line-height: 1.6;">
+            Exploring the dual role of BMP4 in corneal neolymphangiogenesis and neovascularization, providing insights into corneal immunity mechanisms and potential therapeutic applications.
+          </div>
+        </div>
+        <div style="display: flex; gap: 1em; flex-wrap: wrap;">
+          <span style="background: linear-gradient(135deg, #48bb78 0%, #38a169 100%); color: white; padding: 0.4em 1em; border-radius: 20px; font-size: 0.85em; font-weight: 500;">
+            👁️ Ophthalmology
+          </span>
+          <span style="background: linear-gradient(135deg, #805ad5 0%, #6b46c1 100%); color: white; padding: 0.4em 1em; border-radius: 20px; font-size: 0.85em; font-weight: 500;">
+            🩸 Angiogenesis
+          </span>
+          <span style="background: linear-gradient(135deg, #ed8936 0%, #dd6b20 100%); color: white; padding: 0.4em 1em; border-radius: 20px; font-size: 0.85em; font-weight: 500;">
+            🛡️ Immunology
+          </span>
+        </div>
+      </div>
+      <div style="flex: 0 0 200px;">
+        <img src="proof/framework.png" alt="Corneal Research Framework" style="width: 100%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';" />
+        <div style="display: none; background: #f7fafc; border: 2px dashed #cbd5e0; border-radius: 12px; height: 150px; display: flex; align-items: center; justify-content: center; color: #718096; font-size: 0.9em;">
+          🏗️ Research Framework
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
 # 🏆 Competition Awards
 
 <div class="award-item">
@@ -153,7 +241,6 @@ document.addEventListener('keydown', function(event) {
   </div>
 </div>
 
-# 📃 Innovation Projects
 
 
 
