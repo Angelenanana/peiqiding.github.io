@@ -207,42 +207,43 @@ document.addEventListener('keydown', function(event) {
 
 # 🏆 Competition Awards
 
-<div class="award-item">
-  <span class="award-medal silver">🥈 Second Prize</span>
-  <div class="award-details">
-    <div class="award-title">China Undergraduate Medical Innovation Tournament & The Belt and Road International Competition</div>
-    <div class="award-year">2025</div>
-  </div>
-</div>
+- **China Undergraduate Medical Innovation Tournament & The Belt and Road International Competitio--Second Prize** (2025)  
+  *Jinan, Shandong*
 
-<div class="award-item">
+- **China Undergraduate Life Science Contest (Scientific Inquiry Category)--Third Prize** (2025)  
+  *Changchun, Jilin*
+
+- **China International College Students Innovation Competition--Silver Medal** (2024)  
+  *Changchun, Jilin*
+
+- **International Genetically Engineered Machine competition** (2023)  
+  *Paris, France*
+
+<!-- <div class="award-item">
   <span class="award-medal bronze">🥉 Third Prize</span>
   <div class="award-details">
     <div class="award-title">China Undergraduate Life Science Contest (Scientific Inquiry Category)</div>
     <div class="award-year">2025</div>
   </div>
-</div>
+</div> -->
 
-<div class="award-item">
+<!-- <div class="award-item">
   <span class="award-medal silver">🥈 Second Prize</span>
   <div class="award-details">
     <div class="award-title">China International College Students Innovation Competition</div>
     <div class="award-location">(Jilin University Region)</div>
     <div class="award-year">2024</div>
   </div>
-</div>
+</div> -->
 
-<div class="award-item">
+<!-- <div class="award-item">
   <span class="award-medal silver">🥈 Silver Medal</span>
   <div class="award-details">
     <div class="award-title">International Genetically Engineered Machine competition</div>
     <div class="award-location">(Paris, France)</div>
     <div class="award-year">2023</div>
   </div>
-</div>
-
-
-
+</div> -->
 
 # 🎖 Scholarships and Honors
 
