@@ -152,8 +152,8 @@ document.addEventListener('keydown', function(event) {
           </span>
         </div>
       </div>
-      <div style="flex: 0 0 200px; display: flex; justify-content: center; align-items: center;">
-        <img src="images/project2.png" alt="Cervical Cancer Research Project" style="width: 100%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);" />
+      <div style="flex: 0 0 200px; display: flex; justify-content: center; align-items: center; min-height: 200px;">
+        <img src="images/project2.png" alt="Cervical Cancer Research Project" style="max-width: 100%; max-height: 100%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); object-fit: contain;" />
       </div>
     </div>
   </div>
@@ -190,8 +190,8 @@ document.addEventListener('keydown', function(event) {
           </span>
         </div>
       </div>
-      <div style="flex: 0 0 200px; display: flex; justify-content: center; align-items: center;">
-        <img src="images/project1.png" alt="Corneal Research Project" style="width: 100%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);" />
+      <div style="flex: 0 0 200px; display: flex; justify-content: center; align-items: center; min-height: 200px;">
+        <img src="images/project1.png" alt="Corneal Research Project" style="max-width: 100%; max-height: 100%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); object-fit: contain;" />
       </div>
     </div>
   </div>
@@ -246,7 +246,7 @@ document.addEventListener('keydown', function(event) {
       <h3 style="color: #2d3748; font-size: 1em; font-weight: 600; margin: 0;">Dong Rong Scholarship</h3>
     </div>
     <div style="color: #718096; font-size: 0.9em;">
-      Top 10/1213 • 2024
+      4/600 • 2024
     </div>
   </div>
 
