@@ -334,13 +334,13 @@
     margin-left: -0.5em;
     padding-left: 0.5em;
     padding-right: 0.5em;
-    color: #fff;
+    color: $primary-color;
     font-weight: bold;
-    background: $primary-color;
+    background: none;
     border-radius: $border-radius;
 
     &:hover {
-      color: #fff;
+      color: $primary-color;
     }
   }
 }

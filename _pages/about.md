@@ -17,19 +17,17 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-<div style="background: linear-gradient(135deg, #f8f9ff 0%, #ffffff 100%); border-radius: 20px; padding: 2em; margin: 2em 0; box-shadow: 0 8px 32px rgba(102, 126, 234, 0.08); border: 1px solid rgba(226, 232, 240, 0.6);">
-  <p style="margin: 0; line-height: 1.8; color: #374151; font-size: 1.1em;">
-    I'm <strong style="color: #2d3748;">Peiqi Ding</strong> (Chinese: 丁沛琦), presently a fourth-year undergraduate student studying Clinical Medicine at <a href="http://113.45.131.203:9099/home" style="color: #667eea; text-decoration: none; font-weight: 600;">The Second Norman Bethune Hospital</a>, <a href="https://www.jlu.edu.cn/" style="color: #667eea; text-decoration: none; font-weight: 600;">Jilin University (JLU)</a>.
-  </p>
-  
-  <p style="margin: 1em 0 0 0; line-height: 1.8; color: #374151; font-size: 1.1em;">
-    I have been actively collaborating with <a href="http://113.45.131.203:9099/zjtd/yjks23/ykyy32/ydbk2/content_101151" style="color: #667eea; text-decoration: none; font-weight: 600;">Dr. Wu</a> and <a href="https://medicine.jlu.edu.cn/info/1251/13274.htm" style="color: #667eea; text-decoration: none; font-weight: 600;">Dr. Qu</a>. My research interests lie primarily in <strong style="color: #2d3748;">Posterior Segment Diseases</strong>, particularly <strong style="color: #2d3748;">macular disease</strong> and related conditions.
-  </p>
-  
-  <p style="margin: 1em 0 0 0; line-height: 1.8; color: #374151; font-size: 1.1em;">
-    I am open to any research collaboration. Feel free to contact me via <a href="mailto:dingpq9922@163.com" style="color: #667eea; text-decoration: none; font-weight: 600;">Email</a> or <a href="#" onclick="showWeChatQR(); return false;" style="color: #667eea; text-decoration: none; font-weight: 600;">WeChat</a>.
-  </p>
-</div>
+<p style="margin: 0; line-height: 1.8; color: #374151; font-size: 1.1em;">
+  I'm <strong style="color: #2d3748;">Peiqi Ding</strong> (Chinese: 丁沛琦), presently a fourth-year undergraduate student studying Clinical Medicine at <a href="http://113.45.131.203:9099/home" style="color: #667eea; text-decoration: none;">The Second Norman Bethune Hospital</a>, <a href="https://www.jlu.edu.cn/" style="color: #667eea; text-decoration: none;">Jilin University (JLU)</a>.
+</p>
+
+<p style="margin: 1em 0 0 0; line-height: 1.8; color: #374151; font-size: 1.1em;">
+  I have been actively collaborating with <a href="http://113.45.131.203:9099/zjtd/yjks23/ykyy32/ydbk2/content_101151" style="color: #667eea; text-decoration: none;">Dr. Wu</a> and <a href="https://medicine.jlu.edu.cn/info/1251/13274.htm" style="color: #667eea; text-decoration: none;">Dr. Qu</a>. My research interests lie primarily in <strong style="color: #2d3748;">Posterior Segment Diseases</strong>, particularly <strong style="color: #2d3748;">macular disease</strong> and related conditions.
+</p>
+
+<p style="margin: 1em 0 0 0; line-height: 1.8; color: #374151; font-size: 1.1em;">
+  I am open to any research collaboration. Feel free to contact me via <a href="mailto:dingpq9922@163.com" style="color: #667eea; text-decoration: none;">Email</a> or <a href="#" onclick="showWeChatQR(); return false;" style="color: #667eea; text-decoration: none;">WeChat</a>.
+</p>
 
 <!-- WeChat QR Code Modal -->
 <div id="wechatModal" style="display: none; position: fixed; z-index: 1000; left: 0; top: 0; width: 100%; height: 100%; background-color: rgba(0,0,0,0.5);" onclick="closeWeChatQR()">
